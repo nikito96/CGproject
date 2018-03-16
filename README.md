@@ -1,2 +1,2 @@
 # CGproject
-CGproject university project.
+University project.
